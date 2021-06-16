@@ -1,5 +1,4 @@
 Rails.application.routes.draw do
-  get 'customers/new'
   get 'users/login'
   get 'users/signup'
   get 'customers/new'
